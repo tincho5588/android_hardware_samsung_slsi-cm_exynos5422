@@ -17,6 +17,7 @@
 #ifndef ANDROID_EXYNOS_HWC_MODULE_H_
 #define ANDROID_EXYNOS_HWC_MODULE_H_
 #include <hardware/hwcomposer.h>
+#include "fimd_fb.h"
 
 #define VSYNC_DEV_PREFIX "/sys/devices/"
 #define VSYNC_DEV_MIDDLE "14680000.sysmmu/14640000.sysmmu/"
